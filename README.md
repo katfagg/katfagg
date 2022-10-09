@@ -4,12 +4,12 @@ Hi 👋 My name is Kat
 Full Stack Developer Trainee
 ----------------------------
 
-Learning to code on the BNTA bootcamp, switching careers after getting a degree in Economics and Finance. I really like Java, APIs and design, including accessibility and behaviourial science applications.
+Learning to code on the BNTA bootcamp, switching careers after getting a degree in Economics and Finance. I really like learning JavaScript and UX including accessibility and behaviourial science applications.
 
 * 🌍  I'm based in England
 * ✉️  You can contact me at [katjfagg@gmail.com](mailto:katjfagg@gmail.com)
-* 🧠  I'm learning MVCs / APIs / Spring
-* 🤝  I'm open to collaborating on BNTA projects
+* 🧠  I'm currently working on a React App 
+* 🤝  I'm open to tips on how to learn new languages and theories effectively 
 * ⚡  I love sustainability, inclusivity and empowerment initiatives
 
 ### Skills
