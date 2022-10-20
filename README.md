@@ -8,7 +8,7 @@ Learning to code on the BNTA bootcamp, switching careers after getting a degree 
 
 * 🌍  I'm based in England
 * ✉️  You can contact me at [katjfagg@gmail.com](mailto:katjfagg@gmail.com)
-* 🧠  I'm currently working on a React App 
+* 🧠  I'm currently working with Android Studio and Spring App to create a Calendar App
 * 🤝  I'm open to tips on how to learn new languages and theories effectively 
 * ⚡  I love sustainability, inclusivity and empowerment initiatives
 
